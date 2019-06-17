@@ -7,7 +7,7 @@ import org.hibernate.Session;
 
 /**
  *
- * @author USUARIO
+ * @author GEDEON
  */
 public class prueba7 {
 

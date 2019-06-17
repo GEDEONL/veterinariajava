@@ -3,7 +3,7 @@ import Dao.MascotaDao;
 import entidades.Mascota;
 /**
  *
- * @author USUARIO
+ * @author GEDEON
  */
 public class prueba {
 

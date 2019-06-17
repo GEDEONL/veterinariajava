@@ -11,7 +11,7 @@ import org.hibernate.cfg.AnnotationConfiguration;
 
 /**
  *
- * @author USUARIO
+ * @author GEDEON
  */
 public class HibernateUtil {
  private static final SessionFactory sessionFactory;
